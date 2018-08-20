@@ -7,3 +7,12 @@ https://www.tensorflow.org/install/install_linux#ValidateYourInstallation
 https://pytorch.org/
 
 # others
+pip install scipy
+
+pip install sacred
+
+pip install matplotlib
+
+pip install opencv-python
+
+pip install pillow
