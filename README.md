@@ -1,9 +1,10 @@
 # installation
+This repo is guideline for initial setting for ubuntu.
 
-# tensorflow
+# tensorflow install
 https://www.tensorflow.org/install/install_linux#ValidateYourInstallation
 
-# pytorch 
+# pytorch install
 https://pytorch.org/
 
 # others
